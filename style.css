@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    line-height: 1.6;
+}
+
+#showcase {
+    background:url('../Landing/daniela-mota-TxZXttbojmA-unsplash.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 0 20px;
+    
+}
+
+#showcase h1 {
+    font-size:50px;
+    
+}
