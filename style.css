@@ -1,18 +1,18 @@
 * {
     margin: 0;
     padding: 0;
+    color:#fff;
 }
 body {
     margin: 0;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 17px;
-    color: #fff;
     line-height: 1.6;
 }
 
 #showcase {
-    background:url('../Landing/daniela-mota-TxZXttbojmA-unsplash.jpg');
-    height: 100vh;
+    background:url('../Landing/sebastian-banasiewcz-oXXc-s5nNy8-unsplash.jpg');
+    height: 150vh;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -26,4 +26,7 @@ body {
 #showcase h1 {
     font-size:50px;
     
+}
+.container {
+    margin: 30px 20px;
 }
